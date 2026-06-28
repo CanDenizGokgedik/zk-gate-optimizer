@@ -2,7 +2,7 @@
 
 # zk-gate-optimizer
 
-**Plonky2 sıfır-bilgi devrelerinde kapı stratejilerini evrimsel algoritmayla otomatik optimize et.**
+**Plonky2 sıfır-bilgi devrelerinde gate stratejilerini evrimsel algoritmayla optimizasyonunu gerçekleştirmek.**
 
 *Automatically optimize gate-implementation strategies in Plonky2 zero-knowledge circuits using evolutionary search.*
 

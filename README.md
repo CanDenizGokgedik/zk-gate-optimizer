@@ -6,19 +6,6 @@
 
 *Automatically optimize gate-implementation strategies in Plonky2 zero-knowledge circuits using evolutionary search.*
 
-<br/>
-
-[![Rust](https://img.shields.io/badge/Rust-2021_Edition-orange?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Plonky2](https://img.shields.io/badge/Plonky2-v0.2-7B2FBE?style=for-the-badge)](https://github.com/0xPolygonZero/plonky2)
-[![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
-[![Evrimsel Hesaplama](https://img.shields.io/badge/Evrimsel_Hesaplama-2026-3b82f6?style=for-the-badge)](docs/DESIGN.md)
-
-<br/>
-
-[![Genetic Algorithm](https://img.shields.io/badge/GA-Tournament_·_Crossover_·_Mutation-orange?style=flat-square)](src/ec/ga.rs)
-[![NSGA-II](https://img.shields.io/badge/NSGA--II-Multi_Objective-purple?style=flat-square)](src/ec/nsga2.rs)
-[![ZK](https://img.shields.io/badge/ZK-Correct_by_Construction-22c55e?style=flat-square)](src/circuits/)
-[![Reproducible](https://img.shields.io/badge/RNG-ChaCha8_Seeded-blue?style=flat-square)](src/strategy.rs)
 
 <br/>
 

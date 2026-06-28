@@ -285,9 +285,7 @@ presentation/
 
 ---
 
-### License
 
-MIT — see [LICENSE](LICENSE).
 
 ---
 
